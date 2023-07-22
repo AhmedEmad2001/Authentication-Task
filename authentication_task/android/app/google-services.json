@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428386556013",
+    "project_id": "abs-intern",
+    "storage_bucket": "abs-intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428386556013:android:01ef3ad3fe71a0739d0764",
+        "android_client_info": {
+          "package_name": "com.Abs.AI.authentication_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428386556013-1d9jdibdj5fi0epd1op36n2mu8gng9vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Abs.AI.authentication_task",
+            "certificate_hash": "fc7d49472a8147b1d9285871c385709d6b0a0d39"
+          }
+        },
+        {
+          "client_id": "428386556013-mp4tria1bggcd2r6ntqe3uvo37leem2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoO-QZSovDPVnIFnol4uMLK4N_7TlQJ6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428386556013-mp4tria1bggcd2r6ntqe3uvo37leem2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
